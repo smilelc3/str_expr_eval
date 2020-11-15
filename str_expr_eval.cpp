@@ -199,7 +199,7 @@ int main()
 {
     string infix;
     cout << "请输入字符串表达式，例如：" << endl;
-    cout << "16-(8 + (0.7 - 0.2)*5.41 + 6.8)+1" << endl;
+    //cout << "16-(8 + (0.7 - 0.2)*5.41 + 6.8)+1" << endl;
     cout << "((8.6 - 10.2)*44 + 55 + 2.7) /3" << endl << endl;
     getline(cin, infix);
 

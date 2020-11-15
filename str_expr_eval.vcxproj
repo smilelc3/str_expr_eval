@@ -144,6 +144,9 @@
   <ItemGroup>
     <None Include="readme.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="屏幕截图 2020-11-15 170635.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
